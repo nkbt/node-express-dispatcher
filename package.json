@@ -14,10 +14,10 @@
 		}
 	],
 	"dependencies": {
-		"underscore": "1.5.2"
+		"underscore": "1.8.3"
 	},
 	"devDependencies": {
-		"underscore": "~1.5.2"
+		"underscore": "~1.8.3"
 	},
 	"keywords": [
 		"request dispatcher",
